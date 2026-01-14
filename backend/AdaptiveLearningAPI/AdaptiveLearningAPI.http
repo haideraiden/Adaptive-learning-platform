@@ -1,0 +1,6 @@
+@AdaptiveLearningAPI_HostAddress = http://localhost:5094
+
+GET {{AdaptiveLearningAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
